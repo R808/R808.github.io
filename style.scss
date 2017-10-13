@@ -19,8 +19,10 @@ html {
 
 body {
 	background: url("http://deskbg.com/s3/wpp/13/13888/red-purple-desktop-background.jpg");
-  font: 18px/1.4 georgia,courier,sans-serif;
-  color: #990000;
+  font: 18px/1.4;
+  font-family: "courier", "courier new", sans-serif;	
+  color: #ffffff;
+  font-weight: bold;	
 }
 
 .container {
@@ -35,8 +37,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: "courier", "courier new", sans-serif;
+  color: #ffffff;
   font-weight: bold;
 
   line-height: 1.7;
