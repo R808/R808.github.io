@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: url("https://img00.deviantart.net/444a/i/2014/070/4/8/red_blue_space_background___wallpaper_by_goldcat742-d72gst7.jpg");
-  font: 18px/1.4 "georgia";
-  color: #676b72;
+	background: url("http://www.desktop-screens.com/data/out/92/3333437-red-blue-wallpapers.jpg");
+  font: 18px/1.4 georgia,courier,sans-serif;
+  color: #990000;
 }
 
 .container {
@@ -28,7 +28,8 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background:rgba(0, 34, 102,0.8);		
+  background:rgba(0, 34, 102,0.8);
+  border-bottom: 5px dark gray;	
 }
 
 h1, h2, h3, h4, h5, h6 {
