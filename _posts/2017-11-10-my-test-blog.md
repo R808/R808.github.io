@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td></td>
+    <td>Yes.</td>
   </tr>
 </table>
 
@@ -39,30 +39,30 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I had to make another copy of the blog which took a while.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>How long will it take for the blog to be posted on github.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I didn't need any more help once we were told what to do.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I’ve now got a blog that will automatically post every week.</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td></td>
+    <td>I completed all the jobs quickly.</td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>If i were quicker I could have finished the work in school.</td>
     <td></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>I need to type and carry out the instructions quicker.</td>
     <td></td>
   </tr>
 </table>
