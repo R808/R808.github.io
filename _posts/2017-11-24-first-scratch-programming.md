@@ -6,7 +6,7 @@ permalink: /first-scratch-programming/
 source-id: 12o1zb3kZEgAXoCYqiZxlxbG5NtzSoEZSsPrCZcYYEao
 published: true
 ---
-<table>
+<table rules="rows">
   <tr>
     <td>Title</td>
     <td>First Scratch Pragramming</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>Starting point:</td>
     <td>We have a scratch account.</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
