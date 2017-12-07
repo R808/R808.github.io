@@ -6,7 +6,7 @@ permalink: /my-test-blog/
 source-id: 1edE6M5scLQwUA7nGyGG47Pv_Dsm0-dIz_whzPV_29po
 published: true
 ---
-<table>
+<table rules="rows">
   <tr>
     <td>Title</td>
     <td>My test blog</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>Starting point:</td>
     <td>We have a github repository and some CSS.</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
