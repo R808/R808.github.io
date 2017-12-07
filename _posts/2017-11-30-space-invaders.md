@@ -6,7 +6,7 @@ permalink: /space-invaders/
 source-id: 1003DAY9gQSeqjGHPkq_U_P_ea-MZYcyklFzLfCllwmc
 published: true
 ---
-<table>
+<table rules="rows">
   <tr>
     <td>Title</td>
     <td>Space Invaders</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="rules">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
