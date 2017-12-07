@@ -6,7 +6,7 @@ permalink: /finishing-space-invaders/
 source-id: 1jSUvYsQ3HM_Mu2OUkuMbTzlWl9TZWD3xRKNMvVhK9t0
 published: true
 ---
-<table>
+<table rules="rows">
   <tr>
     <td>Title</td>
     <td>Space Invaders Movement</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>Starting point:</td>
     <td>We have two of seven sprites and a worksheet with instructions about movement of the sprites on it.</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
