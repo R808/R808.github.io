@@ -6,7 +6,7 @@ permalink: /space-invaders-movement-variable/
 source-id: 1xWqJ8SJMLk0ACEsznJw-rO6hLd6rc1OFk8XixjEeLRo
 published: true
 ---
-<table>
+<table rules="rows">
   <tr>
     <td>Title</td>
     <td>Space Invaders Movement Variable</td>
@@ -16,7 +16,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>Starting point:</td>
     <td>We have all sprites with some sort of script and a scoring system.</td>
@@ -32,7 +32,7 @@ published: true
 </table>
 
 
-<table>
+<table rules="all">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
@@ -72,6 +72,10 @@ published: true
   <tr>
     <td>I need to think through the code and try to work quicker.</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>Here's a preview of my game.</td>
+    <iframe allowtransparency="true" width="100%" height="402" src="//scratch.mit.edu/projects/embed/188531410/?autostart=false" frameborder="0" allowfullscreen></iframe>  
   </tr>
 </table>
 
