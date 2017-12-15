@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: url("https://orig00.deviantart.net/576e/f/2013/230/6/d/shattered_hex_wallpaper_full_hd_by_artyom17-d6irfis.png") ;
+	background-image: url("https://orig00.deviantart.net/576e/f/2013/230/6/d/shattered_hex_wallpaper_full_hd_by_artyom17-d6irfis.png") ;
   font: 18px/1.4;
   font-family: verdana;	
   color: #ffffff;
@@ -30,11 +30,10 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background:rgba(0, 0, 0, 04)
+  background:rgba(0, 0, 0, 0.8);
   border-bottom: 4px solid white;
   padding: 10px;
   border-radius: 15px;
-  opacity: 0.5;
 }
 
 h1, h2, h3, h4, h5, h6 {
