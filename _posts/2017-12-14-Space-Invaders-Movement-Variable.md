@@ -6,7 +6,7 @@ permalink: /space-invaders-movement-variable/
 source-id: 1xWqJ8SJMLk0ACEsznJw-rO6hLd6rc1OFk8XixjEeLRo
 published: true
 ---
-<table rules="rows">
+<table rules="all">
   <tr>
     <td>Title</td>
     <td>Space Invaders Movement Variable</td>
