@@ -37,6 +37,16 @@ body {
   padding: 10px;
   border-radius: 15px;
 }
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  background:rgba(0, 0, 0, 0.6);
+  border-bottom: 4px solid white;
+  padding: 10px;
+  border-radius: 15px;
+}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "courier", "courier new", sans-serif;
