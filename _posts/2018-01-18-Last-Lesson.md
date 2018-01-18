@@ -1,5 +1,5 @@
 ---
-title: Last Lesson!!!
+title: New game plan
 layout: post
 author: ryan.mccluskey
 permalink: /last-lesson!!!/
