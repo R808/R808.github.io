@@ -6,17 +6,17 @@ permalink: /space-invaders/
 source-id: 1003DAY9gQSeqjGHPkq_U_P_ea-MZYcyklFzLfCllwmc
 published: true
 ---
-<table rules="rows">
+
   <tr>
     <td>Title</td>
     <td>Space Invaders</td>
     <td>Date</td>
     <td>30/11/17</td>
   </tr>
-</table>
 
 
-<table>
+
+
   <tr>
     <td>Starting point:</td>
     <td>We have a list of sprites and variables for space invaders and the basic knowledge of scratch.</td>
@@ -29,10 +29,8 @@ published: true
     <td>Did I reach my target? </td>
     <td>Yes</td>
   </tr>
-</table>
 
 
-<table rules="rules">
   <tr>
     <td>How did you use your learning habits this week?</td>
     <td></td>
@@ -73,6 +71,5 @@ published: true
     <td>I need to think through what i’m typing in so I don’t make mistakes.</td>
     <td></td>
   </tr>
-</table>
 
 
