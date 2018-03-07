@@ -45,10 +45,7 @@ padding: 20px;
 text-align: center;	
 }
 
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
+
 table {
     border-collapse: collapse;
     width: 100%;
@@ -60,10 +57,6 @@ th, td {
     border-bottom: 1px solid #000000;
 }
 
-td {
-    height: 50px;
-    vertical-align: center;
-}
 
  th {
  color: black;
@@ -73,6 +66,8 @@ td {
   td {
  color: black;
  background-color: rgb(239, 45, 2);
+	      height: 50px;
+    vertical-align: center;
  }
 
 
