@@ -38,6 +38,46 @@ body {
   border-radius: 15px;
 }
 
+
+table, td, th {
+    border: 1px solid black;
+padding: 20px;
+text-align: center;	
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #000000;
+}
+
+td {
+    height: 50px;
+    vertical-align: center;
+}
+
+ th {
+ color: black;
+ background-color: rgb(239, 45, 2);
+ }
+ 
+  td {
+ color: black;
+ background-color: rgb(239, 45, 2);
+ }
+
+
+
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "courier", "courier new", sans-serif;
   color: #ffffff;
