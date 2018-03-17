@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: scratch
+permalink: About
 ---
 
 my hobbies include warhammer, climbing and saxophone.
