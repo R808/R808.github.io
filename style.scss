@@ -224,13 +224,19 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  position: sticky;
 }
 
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 102px;
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  position: sticky;
 
   @include mobile {
     text-align: center;
