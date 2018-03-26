@@ -224,16 +224,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 102px;
+  position: sticky;
 }
 
 .masthead {
