@@ -129,6 +129,34 @@ ul, ol {
 
 ul {
   list-style-type: disc;
+    padding: 0;
+    overflow: hidden;
+    background-color: #4db8ff;
+    opacity: 0.7;
+    position: sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+    border-right: 1px solid #ffffff;
+}
+li:last-child {
+    border-right: none;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #008ae6;
 }
 
 ol {
