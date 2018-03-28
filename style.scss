@@ -224,8 +224,10 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  position: sticky;
+  position: fixed;
+  top: 0;
 }
+
 
 .masthead {
   padding: 20px 0;
