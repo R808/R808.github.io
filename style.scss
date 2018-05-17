@@ -24,7 +24,7 @@ html {
 <p id="demo"></p>
 
 <script>
-function myFunction() {{
+function myFunction() {
 	var greeting;}
     var time = new Date().getHours();
     if (time < 10) {
