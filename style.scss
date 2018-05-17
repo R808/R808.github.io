@@ -25,7 +25,7 @@ html {
 
 <script>
 function myFunction() {
-	var greeting;}
+	var greeting;{
     var time = new Date().getHours();
     if (time < 10) {
         greeting = "Good morning";
