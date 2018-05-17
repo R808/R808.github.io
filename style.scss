@@ -17,6 +17,26 @@ html {
   font-size: 100%;
 }
 
+<p>Click the button to get a time-based greeting:</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var greeting;
+    var time = new Date().getHours();
+    if (time < 10) {
+        greeting = "Good morning";
+    } else if (time < 20) {
+        greeting = "Good day";
+    } else {
+        greeting = "Good evening";
+    }
+document.getElementById("demo").innerHTML = greeting;
+}
+</script>
 
 body {
 	background-image: url("http://techomebuilder.com/wp-content/uploads/2016/06/soundwaves-can-hack-computers-researchers-e1465836011635.jpg") ;
